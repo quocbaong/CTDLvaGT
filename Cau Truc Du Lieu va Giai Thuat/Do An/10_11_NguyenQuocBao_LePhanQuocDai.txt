@@ -1,0 +1,107 @@
+sv 22001895, Nguyen Thi Thanh Hien, DHKTPM18C
+sv 22001575, Nguyen Quynh Gia, DHKTPM18C
+sv 22001605, Le Van Dat, DHKTPM18C
+sv 22002745, Duong Thanh An, DHKTPM18A
+sv 22001175, Phan Nguyen Tan Dat, DHKTPM18B
+sv 22002185, Dau Thi Anh, DHKTPM18B
+sv 22003015, Le Phan Quoc Dai, DHKTPM18C
+sv 22000865, Nguyen Ngoc Hien, DHKTPM18B
+sv 22002695, Dang Van Tuan Hung, DHKTPM18A
+sv 22001325, Trieu Van Dung, DHKTPM18A
+sv 22002115, Pham Mai Duy, DHKTPM18C
+sv 22003155, Bui Manh Hieu, DHKTPM18C
+sv 22001355, Vo Chi Linh, DHKTPM18B
+sv 22001555, Tran Nguyen Hai Dang, DHKTPM18A
+sv 22003035, Trinh Hoang Duc, DHKTPM18B
+sv 22003395, Tran Dinh Hoan, DHKTPM18A
+sv 22002095, Doan Lan Huong, DHKTPM18A
+sv 22002585, Pham Nhat Hung, DHKTPM18C
+sv 22001445, Le Nguyen Hieu, DHKTPM18A
+sv 22002985, Nguyen Trong Hieu, DHKTPM18A
+sv 22002565, Nguyen Quoc Duong, DHKTPM18A
+sv 22001115, Le Thi Kim Lien, DHKTPM18A
+sv 22003045, Pham Thai Loc, DHKTPM18A
+sv 22002545, Tran Dan Huy, DHKTPM18B
+sv 22001645, Ho Quoc Huy, DHKTPM18C
+sv 22001745, Nguyen Van A, DHKTPM18D
+sv 22002715, Tran Doan Khoe, DHKTPM18B
+sv 22001255, Nguyen Thi Thai Hoa, DHKTPM18B
+sv 22002615, Tran Thi Khanh Huyen, DHKTPM18C
+sv 22002435, Bui Trung Kien, DHKTPM18A
+
+diem 22003045, He co so du lieu, 8.30, 7.50, 9.00, 10.00
+diem 22002985, Toan Roi rac, 8.40, 9.20, 10.00, 0.00
+diem 22001605, CTDL va GT, 7.50, 8.50, 8.00, 9.00
+diem 22000865, He co so du lieu, 9.00, 9.00, 10.00, 0.00
+diem 22002115, He co so du lieu, 9.00, 8.00, 7.00, 10.00
+diem 22002435, CTDL va GT, 7.50, 8.00, 8.00, 9.00
+diem 22001115, Toan Roi rac, 9.00, 8.00, 7.50, 0.00
+diem 22001325, CTDL va GT, 7.00, 8.00, 8.00, 10.00
+diem 22002185, He co so du lieu, 9.00, 8.00, 7.00, 10.00
+diem 22001175, Toan Roi rac, 9.00, 10.00, 9.00, 0.00
+diem 22003155, He co so du lieu, 8.00, 7.50, 9.00, 10.00
+diem 22003155, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22002615, Toan Roi rac, 10.00, 8.00, 7.00, 0.00
+diem 22001745, CTDL va GT, 7.00, 8.50, 8.00, 9.00
+diem 22002615, He co so du lieu, 9.00, 10.00, 9.00, 8.00
+diem 22002585, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22002185, Toan Roi rac, 8.00, 7.50, 9.00, 0.00
+diem 22002585, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22001555, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22001445, Toan Roi rac, 10.00, 8.00, 7.00, 0.00
+diem 22001175, CTDL va GT, 10.00, 9.00, 8.00, 7.00
+diem 22002115, Toan Roi rac, 8.00, 7.00, 9.00, 0.00
+diem 22001555, He co so du lieu, 7.00, 8.00, 9.00, 10.00
+diem 22001605, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22001745, He co so du lieu, 8.00, 9.00, 7.00, 10.00
+diem 22002115, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22002185, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22001355, He co so du lieu, 7.00, 8.00, 9.00, 10.00
+diem 22003035, He co so du lieu, 10.00, 8.00, 9.00, 7.00
+diem 22001255, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22002695, Toan Roi rac, 8.00, 7.00, 9.00, 0.00
+diem 22001325, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22002695, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22003395, He co so du lieu, 9.00, 10.00, 9.00, 8.00
+diem 22003045, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22001255, CTDL va GT, 7.00, 8.00, 8.00, 10.00
+diem 22002095, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22000865, Toan Roi rac, 9.00, 8.00, 7.00, 0.00
+diem 22001445, He co so du lieu, 9.00, 10.00, 9.00, 8.00
+diem 22002435, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22002745, CTDL va GT, 7.50, 8.00, 9.00, 8.00
+diem 22003035, Toan Roi rac, 8.00, 9.00, 10.00, 0.00
+diem 22001645, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22003045, Toan Roi rac, 8.00, 9.00, 7.00, 0.00
+diem 22003155, Toan Roi rac, 8.00, 9.00, 10.00, 0.00
+diem 22001355, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22001645, Toan Roi rac, 8.00, 10.00, 10.00, 0.00
+diem 22002715, Toan Roi rac, 8.00, 7.00, 9.00, 0.00
+diem 22001355, Toan Roi rac, 8.00, 9.00, 7.00, 0.00
+diem 22001895, He co so du lieu, 7.00, 8.00, 9.00, 10.00
+diem 22001895, Toan Roi rac, 8.00, 9.00, 7.00, 0.00
+diem 22002715, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22002745, He co so du lieu, 8.00, 9.00, 8.00, 10.00
+diem 22001575, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22002565, He co so du lieu, 9.00, 10.00, 9.00, 8.00
+diem 22000865, CTDL va GT, 10.00, 9.00, 8.00, 7.00
+diem 22002985, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22002545, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22002095, He co so du lieu, 10.00, 7.00, 9.00, 8.00
+diem 22001645, He co so du lieu, 10.00, 8.00, 9.00, 10.00
+diem 22001175, He co so du lieu, 9.00, 8.00, 7.00, 10.00
+diem 22001895, CTDL va GT, 9.00, 8.00, 8.00, 9.00
+diem 22001115, CTDL va GT, 10.00, 9.00, 8.00, 7.00
+diem 22002095, Toan Roi rac, 9.00, 9.00, 10.00, 0.00
+diem 22002715, He co so du lieu, 9.00, 8.00, 7.00, 10.00
+diem 22002745, Toan Roi Rac, 9.00, 8.00, 7.70, 0.00
+diem 22002695, He co so du lieu, 9.00, 8.00, 7.00, 10.00
+diem 22002985, He co so du lieu, 10.00, 7.00, 9.00, 8.00
+diem 22002565, Toan Roi rac, 10.00, 9.00, 8.00, 0.00
+diem 22001575, He co so du lieu, 8.00, 7.00, 9.00, 10.00
+diem 22003015, He co so du lieu, 10.00, 9.00, 8.00, 7.00
+diem 22003395, Toan Roi rac, 10.00, 8.00, 7.00, 0.00
+diem 22002545, CTDL va GT, 7.00, 8.00, 8.00, 9.00
+diem 22001255, Toan Roi rac, 8.00, 9.00, 7.00, 0.00
+diem 22001555, Toan Roi rac, 8.00, 9.00, 7.00, 0.00
+diem 22003015, Toan Roi rac, 9.00, 8.00, 7.00, 0.00
